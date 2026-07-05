@@ -6,7 +6,7 @@ HEADER;
 FILE_DESCRIPTION(('HOOPS Exchange Step'),'2;1');
 
 FILE_NAME('C:\\Users\\Alvin Nguyen\\AppData\\Local\\Packages\\Shapr3D.Shapr3D_dvv5p1vgwv6mp\\TempState\\export\\temp_export',
-'2026-07-04T23:53:21+19:00',
+'2026-07-05T13:42:28-05:00',
 ('Alvin Nguyen'),
 ('Shapr3D Limited'),
 'HOOPS Exchange 2026.3',
@@ -2834,7 +2834,7 @@ DATA;
 #23=PRODUCT_DEFINITION_SHAPE('','',#25);
 #2764=SHAPE_DEFINITION_REPRESENTATION(#23,#16);
 #11=DRAUGHTING_MODEL('',(#2757),#10);
-#2765=DESCRIPTIVE_REPRESENTATION_ITEM('KEY','C:\\Users\\Alvin Nguyen\\AppData\\Local\\Packages\\Shapr3D.Shapr3D_dvv5p1vgwv6mp\\TempState\\3b69ce08-b830-4548-b304-40b587c38768.tmp');
+#2765=DESCRIPTIVE_REPRESENTATION_ITEM('KEY','C:\\Users\\Alvin Nguyen\\AppData\\Local\\Packages\\Shapr3D.Shapr3D_dvv5p1vgwv6mp\\TempState\\5b5a0b76-a7d5-40b7-a204-3e6a6e049572.tmp');
 #2766=PROPERTY_DEFINITION('KEY','',#25);
 #2767=REPRESENTATION('',(#2765),#10);
 #2768=PROPERTY_DEFINITION_REPRESENTATION(#2766,#2767);
