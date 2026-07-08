@@ -37,3 +37,18 @@ Over the past few months, I've been seeing this unique hardware accessory called
 - NFC Chip - Originally this was supposed to have one but making a custom antenna was a diffcult process in such a limited space
 - No modules - this means all power managment will have to be designed from scratch and same with the screen module
 - Add more inputs like a microphone, camera, photoresistor, etc
+
+BOM
+| item | quantity |
+| --- | --- |
+| LSM6DSLTR | 1 |
+| DRV2605LYZFR | 1 |
+| 10kΩ Resistor | 2 |
+| 100nF Capacitors | 4 |
+| Pin Header 1x7 2.54mm | 1 |
+| JST PH 2-pin 2.0mm | 1 |
+| Seeed XIAO ESP32-S3 | 1 |
+| 3.7V 300mAh 502035 LiPo | 1 |
+| Round LCD Module GC9A01 | 1 |
+| LRA Haptic Motor| 1 |
+| Plastic Case | 3D - Printed |
