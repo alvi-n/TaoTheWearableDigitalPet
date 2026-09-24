@@ -100,3 +100,32 @@ This took a little too long. Turns out since I didn't have an LCD screen footpri
   <img width="450" alt="pcbwithart" src="https://github.com/user-attachments/assets/a5253b1d-27e9-41b2-be35-65abd492e481" />
   <img width="450" alt="fit" src="https://github.com/user-attachments/assets/2083554b-6917-4791-a13d-fe297f07fe02" />
 </p>
+
+## Parts shipped! - Changing the cad *(45 min)*
+
+- After getting my parts I 3D-printed the model I originally made, of course, it was too tight or too loose on some ends.
+- A bit of adjustments later and two iterations, I finally got a case I like. It's a bit chunky but it looks good nevertheless.
+- 
+<img width="450"  alt="image" src="https://github.com/user-attachments/assets/b7aba4a8-e233-4264-b5c4-80ef605fa1dc" />
+<img width="450"  alt="Screenshot 2026-09-18 195445" src="https://github.com/user-attachments/assets/105615b6-7824-43b1-ac84-e5988ed7a3c5" />
+
+## Solder time - Soldered parts while my case was printing *(1 hr 15 min)*
+
+- It was way easier than last time trying to solder a macropad. I think after going to a hardware hackathon over the summer, my soldering skills definitely improved.
+- The process is first solder on the microcontroller --> then the haptic motor --> then the screen --> then the battery 
+
+<img width="450"  alt="image" src="https://github.com/user-attachments/assets/a3eb7a6f-da00-4d52-8234-cfae1dae21fb" />
+
+## Finished product *(2 hr)*
+
+- Took way too much time readjusting the code, redoing it, compiling it, realizing it doesn't work, again.
+- After a bit, I just wanted to get the core features down such as:
+1. Eye movement when I tilt
+2. Dizzy animation when I shake it
+3. Animation when I drop it (when g-force = 0)
+4. Sleep animation when left alone
+
+<img width="450"  alt="image" src="https://github.com/user-attachments/assets/30c81241-1aad-48cb-874c-4d43bef67790" />
+
+
+
