@@ -21,11 +21,9 @@ Over the past few months, I've been seeing this unique hardware accessory called
 
 
 ## What It Does
-- Two animated apple-seed eyes are Tao's entire face 
-  - (Táo means apple in Vietnamese🍎)
-  - `eyes.h` computes each eye as a 10-point polygon and changes its scale, spacing, and rotation toward a specifc shape at ~30fps for smooth transitions
+- Two animated eyes are Tao's entire face
 - An LSM6DSL accelerometer notes any change in motion in real time
-  - `mood.h` reads the change in acceleration magnitude between frames and sorts it into still / moving / shake states
+  -The accelerometer reads the change in acceleration magnitude between frames and sorts it into still / moving / shake states
   - This is very similar to how your phone can detect if your screen is turned so you could watch videos fullscreen
 - A haptic motor creates different unique haptic patterns depending on what Tao is going through
 - Uses an ESP32-S3 development board to make power management easier
