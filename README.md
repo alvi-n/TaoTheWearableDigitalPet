@@ -5,7 +5,9 @@ Tao is a highly responsive, accessible companion device that uses an **accelerom
 Over the past few months, I've been seeing this unique hardware accessory called ["Starboy" by CREATURE](https://hesjustalittleguy.com/). It features a palm-sized digital pet that has a star-shaped form factor and a round screen in the middle with very expressive eyes. As you can probably tell by the title description, this project was heavily inspired by this. I was immediately captivated by the concept, but with the original product selling for around $150 to $300, I thought it felt like a great open-source, diy project.
 > _"STARBOY perceives its environment through a camera, microphone, temperature sensor, and accelerometer. bring him into a loud environment and he gets anxious. Leave him in the cold and he shivers. Shake him and he gets dizzy and mad at you. give him a thumbs up to check the battery level, or flick him off if you feel like making him sad."_
 
-![overall](https://github.com/alvi-n/TaoTheWearableDigitalPet/blob/main/Screenshots/overall.png)
+![in cad](https://github.com/alvi-n/TaoTheWearableDigitalPet/blob/main/Screenshots/overall.png)
+![in my hand](https://github.com/user-attachments/assets/dca49688-5af3-4141-8df2-6c43bbfa45fa)
+
 
 ## Hardware
 - Seeed XIAO ESP32-S3
